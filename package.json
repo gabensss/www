@@ -1,0 +1,15 @@
+{
+  "name": "my-bot-project",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "web3": "^1.6.0",
+    "ethers": "^5.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
